@@ -2,9 +2,7 @@
     "name": "massmedia/files_finder_bundle",
     "type": "symfony-bundle",
     "autoload": {
-        "psr-4": {
-            "psr-4": { "Massmedia\\FilesFinderBundle\\": "" }
-        }
+        "psr-4": { "Massmedia\\FilesFinderBundle\\": "" }
     },
     "require": {
         "php": ">=5.3.9",
