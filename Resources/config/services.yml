@@ -1,0 +1,4 @@
+services:
+    massmedia.files_finder:
+        class: Massmedia\FilesFinderBundle\Services\FilesFinder
+        arguments: []
